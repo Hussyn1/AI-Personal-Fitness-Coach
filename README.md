@@ -89,10 +89,10 @@ Experience the sleek, modern UI design of AI Personal Fitness Coach:
 ### 👤 Profile & Settings
 ![Profile](screenshots/profile.jpg)
 *View your stats and manage account settings*
+---
 
 
-
-
+---
 ## 🏗️ Architecture
 
 ### Current Architecture
@@ -112,7 +112,7 @@ lib/
 │   │   └── mainNavigationView/  # Bottom navigation
 │   └── routes/             # App routing configuration
 └── main.dart               # App entry point
-
+---
 
 ### Design Patterns
 - **GetX** - State management and routing
@@ -208,9 +208,9 @@ ai_personal_fitness_coach/
 ├── test/                    # Unit and widget tests
 ├── pubspec.yaml            # Dependencies and assets
 └── README.md               # This file
+---
 
-
-
+---
 ## 📦 Dependencies
 
 ### Core
