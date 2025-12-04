@@ -294,7 +294,6 @@ Contributions are welcome! Please follow these steps:
 
 ## 👨‍💻 Author
 
-**Your Name**
 - GitHub: [@Hussyn1](https://github.com/Hussyn1)
 ---
 
