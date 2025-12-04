@@ -61,7 +61,7 @@
 
 Experience the sleek, modern UI design of AI Personal Fitness Coach:
 
-````carousel
+
 ### 🏠 Home Dashboard
 ![Home Screen](screenshots/home_screen.jpg)
 *Track your daily progress with calories, workout time, and quick access to today's workout*
@@ -89,14 +89,14 @@ Experience the sleek, modern UI design of AI Personal Fitness Coach:
 ### 👤 Profile & Settings
 ![Profile](screenshots/profile.jpg)
 *View your stats and manage account settings*
-````
 
----
+
+
 
 ## 🏗️ Architecture
 
 ### Current Architecture
-```
+
 lib/
 ├── app/
 │   ├── core/
@@ -112,7 +112,7 @@ lib/
 │   │   └── mainNavigationView/  # Bottom navigation
 │   └── routes/             # App routing configuration
 └── main.dart               # App entry point
-```
+
 
 ### Design Patterns
 - **GetX** - State management and routing
@@ -125,7 +125,7 @@ lib/
 - **Service Layer** - API and business logic
 - **Dependency Injection** - GetX bindings
 
----
+
 
 ## 🚀 Getting Started
 
@@ -164,7 +164,6 @@ flutter build apk --release
 
 ## 📂 Project Structure
 
-```
 ai_personal_fitness_coach/
 ├── android/                 # Android native code
 ├── ios/                     # iOS native code
@@ -209,9 +208,8 @@ ai_personal_fitness_coach/
 ├── test/                    # Unit and widget tests
 ├── pubspec.yaml            # Dependencies and assets
 └── README.md               # This file
-```
 
----
+
 
 ## 📦 Dependencies
 
